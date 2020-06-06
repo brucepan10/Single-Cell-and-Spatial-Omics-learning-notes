@@ -22,11 +22,28 @@ Published: 16 November 2018
 ### 2.1 Review
 [Orchestrating single-cell analysis with Bioconductor](https://www.nature.com/articles/s41592-019-0654-x)   
 Nature Methods    
-Published: 02 December 2019   
+Published: 02 December 2019  
+### 2.2 Clustering   
+
+### 2.3 Batch correction    
+#### 2.3.1 Assessment    
+[A test metric for assessing single-cell RNA-seq batch correction](https://www.nature.com/articles/s41592-018-0254-1)    
+Nature Methods    
+Published: 20 December 2018  
+[Benchmarking atlas-level data integration in single-cell genomics](https://www.biorxiv.org/content/10.1101/2020.05.22.111161v2)    
+bioRxiv    
+Posted May 27, 2020.   
+[Flexible comparison of batch correction methods for single-cell RNA-seq using BatchBench](https://www.biorxiv.org/content/10.1101/2020.05.22.111211v2)     
+bioRxiv    
+Posted May 27, 2020.  
+[A benchmark of batch-effect correction methods for single-cell RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1850-9)     
+Genome Biology
+Published: 16 January 2020    
+#### 2.3.2 
 ***   
 ## 3 snRNA-seq (single-nucleus RNA-sequencing)
 ### 3.1 Compared with scRNA-seq   
 [Systematic comparison of single-cell and single-nucleus RNA-sequencing methods](https://www.nature.com/articles/s41587-020-0465-8)    
-nature biotechnology    
+Nature Biotechnology    
 Published: 06 April 2020
 
