@@ -38,15 +38,15 @@ I am on the way to learn it, so it is a good time for me to take down notes here
 &emsp;[A test metric for assessing single-cell RNA-seq batch correction](https://www.nature.com/articles/s41592-018-0254-1)    
 &emsp;Nature Methods    
 &emsp;Published: 20 December 2018  
+&emsp;[A benchmark of batch-effect correction methods for single-cell RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1850-9)     
+&emsp;Genome Biology    
+&emsp;Published: 16 January 2020    
 &emsp;[Benchmarking atlas-level data integration in single-cell genomics](https://www.biorxiv.org/content/10.1101/2020.05.22.111161v2)    
 &emsp;bioRxiv    
 &emsp;Posted May 27, 2020.   
 &emsp;[Flexible comparison of batch correction methods for single-cell RNA-seq using BatchBench](https://www.biorxiv.org/content/10.1101/2020.05.22.111211v2)     
 &emsp;bioRxiv    
 &emsp;Posted May 27, 2020.  
-&emsp;[A benchmark of batch-effect correction methods for single-cell RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1850-9)     
-&emsp;Genome Biology    
-&emsp;Published: 16 January 2020    
 #### 2.3.2 
 ***   
 ## 3 snRNA-seq (single-nucleus RNA-sequencing)
