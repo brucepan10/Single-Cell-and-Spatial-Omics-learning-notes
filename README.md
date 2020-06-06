@@ -5,17 +5,17 @@ I am on the way to learn it, so it is a good time for me to take down notes here
 ## 0 single-cell   
 ### 0.1 Review
 + [Eleven grand challenges in single-cell data science](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1926-6)    
-&emsp;Genome Biology   
-&emsp;Published: 07 February 2020   
+Genome Biology   
+Published: 07 February 2020   
 ***
 ## 1 scRNA-seq methods 
 ### 1.1 Review   
-&emsp;+ [Single-cell RNA-sequencing: The future of genome biology is now](https://www.tandfonline.com/doi/full/10.1080/15476286.2016.1201618)   
-&emsp;RNA Biology   
-&emsp;Published: 21 July 2016    
-&emsp;+ [Tutorial: guidelines for the experimental design of single-cell RNA sequencing studies](https://www.nature.com/articles/s41596-018-0073-y)   
-&emsp;Nature Protocols   
-&emsp;Published: 16 November 2018   
++ [Single-cell RNA-sequencing: The future of genome biology is now](https://www.tandfonline.com/doi/full/10.1080/15476286.2016.1201618)   
+RNA Biology   
+Published: 21 July 2016    
++ [Tutorial: guidelines for the experimental design of single-cell RNA sequencing studies](https://www.nature.com/articles/s41596-018-0073-y)   
+Nature Protocols   
+Published: 16 November 2018   
 
 ***   
 ## 2 scRNA-seq analysis
