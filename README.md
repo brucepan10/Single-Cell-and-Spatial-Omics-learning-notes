@@ -4,7 +4,7 @@ I am on the way to learn it, so it is a good time for me to take down notes here
 *** 
 ## 0 single-cell   
 ### 0.1 Review
-[Eleven grand challenges in single-cell data science](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1926-6)    
+      &nbsp;[Eleven grand challenges in single-cell data science](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1926-6)    
 Genome Biology   
 Published: 07 February 2020   
 ***
@@ -37,7 +37,7 @@ Posted May 27, 2020.
 bioRxiv    
 Posted May 27, 2020.  
 [A benchmark of batch-effect correction methods for single-cell RNA sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1850-9)     
-Genome Biology
+Genome Biology    
 Published: 16 January 2020    
 #### 2.3.2 
 ***   
