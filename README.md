@@ -4,7 +4,7 @@ I am on the way to learn it, so it is a good time for me to take down notes here
 *** 
 ## 0 single-cell   
 ### 0.1 Review
-&emsp;+ [Eleven grand challenges in single-cell data science](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1926-6)    
++ [Eleven grand challenges in single-cell data science](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1926-6)    
 &emsp;Genome Biology   
 &emsp;Published: 07 February 2020   
 ***
