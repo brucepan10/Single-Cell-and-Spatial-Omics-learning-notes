@@ -1,5 +1,5 @@
 # scRNA-seq learning notes
-&emsp;Single-cell RNA-sequencing (scRNA-seq) is an increasingly popular technology, which greatly revolutionizes transcriptomic studies.   
+&nbsp;Single-cell RNA-sequencing (scRNA-seq) is an increasingly popular technology, which greatly revolutionizes transcriptomic studies.   
 &emsp;I am on the way to learn it, so it is a good time for me to take down notes here.   
 *** 
 ## 0 single-cell   
