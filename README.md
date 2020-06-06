@@ -1,6 +1,6 @@
 # scRNA-seq learning notes
-&nbsp;Single-cell RNA-sequencing (scRNA-seq) is an increasingly popular technology, which greatly revolutionizes transcriptomic studies.   
-&emsp;I am on the way to learn it, so it is a good time for me to take down notes here.   
+Single-cell RNA-sequencing (scRNA-seq) is an increasingly popular technology, which greatly revolutionizes transcriptomic studies.   
+I am on the way to learn it, so it is a good time for me to take down notes here.   
 *** 
 ## 0 single-cell   
 ### 0.1 Review
@@ -24,7 +24,15 @@
 &emsp;Nature Methods    
 &emsp;Published: 02 December 2019  
 ### 2.2 Clustering   
-
+&emsp;[TooManyCells identifies and visualizes relationships of single-cell clades]()    
+&emsp;Nature Methods    
+&emsp;Published: 02 March 2020   
+&emsp;[Souporcell: robust clustering of single-cell RNA-seq data by genotype without reference genotypes](https://www.nature.com/articles/s41592-020-0820-1)     
+&emsp;Nature Methods    
+&emsp;Published: 04 May 2020     
+&emsp;[Putative cell type discovery from single-cell gene expression data](https://www.nature.com/articles/s41592-020-0825-9)    
+&emsp;Nature Methods    
+&emsp;Published: 18 May 2020    
 ### 2.3 Batch correction    
 #### 2.3.1 Assessment    
 &emsp;[A test metric for assessing single-cell RNA-seq batch correction](https://www.nature.com/articles/s41592-018-0254-1)    
