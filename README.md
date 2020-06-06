@@ -8,7 +8,7 @@ I am on the way to learn it, so it is a good time for me to take down notes here
 Genome Biology   
 Published: 07 February 2020   
 ***
-## 1 scRNA-seq methods 
+## 1 scRNA-seq method
 ### 1.1 Review   
 + [Single-cell RNA-sequencing: The future of genome biology is now](https://www.tandfonline.com/doi/full/10.1080/15476286.2016.1201618)   
 RNA Biology   
