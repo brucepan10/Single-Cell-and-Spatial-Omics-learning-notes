@@ -48,7 +48,10 @@ Posted May 27, 2020.
 bioRxiv    
 Posted May 27, 2020.  
 #### 2.3.2 
-***   
+***
+### 2.4 Interation
++ [FIRM](https://github.com/mingjingsi/FIRM) is an algorithm for accurate integration of heterogeneous scRNA-seq datasets across multiple platforms, which specifically accounts for the heterogeneity in cell type composition between SS2 and 10X datasets.
+
 ## 3 snRNA-seq (single-nucleus RNA-sequencing)
 ### 3.1 Compared with scRNA-seq   
 + [Systematic comparison of single-cell and single-nucleus RNA-sequencing methods](https://www.nature.com/articles/s41587-020-0465-8)    
