@@ -3,14 +3,14 @@ Single-cell is an increasingly popular area, which greatly revolutionizes life s
 I am on the way to learn it, so it is a good time for me to take down notes here.
 
 *** 
-## 0 Single-Cell   
+## 0. Single-Cell   
 ### 0.1 Review
 + [Eleven grand challenges in single-cell data science](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1926-6)    
 Genome Biology   
 Published: 07 February 2020
 
 ***
-## 1 scRNA-seq method
+## 1. scRNA-seq method
 ### 1.1 Review   
 + [Single-cell RNA-sequencing: The future of genome biology is now](https://www.tandfonline.com/doi/full/10.1080/15476286.2016.1201618)   
 RNA Biology   
@@ -20,7 +20,7 @@ Nature Protocols
 Published: 16 November 2018   
 
 ***   
-## 2 scRNA-seq analysis
+## 2. scRNA-seq analysis
 ### 2.1 Review
 + [Orchestrating single-cell analysis with Bioconductor](https://www.nature.com/articles/s41592-019-0654-x)   
 Nature Methods    
@@ -54,7 +54,7 @@ Posted May 27, 2020.
 + [FIRM](https://github.com/mingjingsi/FIRM) is an algorithm for accurate integration of heterogeneous scRNA-seq datasets across multiple platforms, which specifically accounts for the heterogeneity in cell type composition between SS2 and 10X datasets.
 
 ***
-## 3 snRNA-seq (single-nucleus RNA-sequencing)
+## 3. snRNA-seq (single-nucleus RNA-sequencing)
 ### 3.1 Compared with scRNA-seq   
 + [Systematic comparison of single-cell and single-nucleus RNA-sequencing methods](https://www.nature.com/articles/s41587-020-0465-8)    
 Nature Biotechnology    
