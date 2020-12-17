@@ -26,7 +26,11 @@ Published: 16 November 2018
 ### 2.1 Review
 + [Orchestrating single-cell analysis with Bioconductor](https://www.nature.com/articles/s41592-019-0654-x)   
 Nature Methods    
-Published: 02 December 2019  
+Published: 02 December 2019 
++ [Tutorial: guidelines for the computational analysis of single-cell RNA sequencing data](https://www.nature.com/articles/s41596-020-00409-w)
+Nature Protocols   
+Published: 07 December 2020
+
 ### 2.2 Clustering   
 + [TooManyCells identifies and visualizes relationships of single-cell clades]()    
 Nature Methods    
