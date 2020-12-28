@@ -63,12 +63,33 @@ Published: 16 January 2020
 + [Flexible comparison of batch correction methods for single-cell RNA-seq using BatchBench](https://www.biorxiv.org/content/10.1101/2020.05.22.111211v2)     
 bioRxiv    
 Posted May 27, 2020.  
+
 #### 2.3.2 Method
++ [Fast, sensitive and accurate integration of single-cell data with Harmony](https://www.nature.com/articles/s41592-019-0619-0)   
+Nature Methods   
+Published: 18 November 2019    
++ [BERMUDA: a novel deep transfer learning method for single-cell RNA sequencing batch correction reveals hidden high-resolution cellular subtypes](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1764-6)   
+Genome Biology    
+Published: 12 August 2019    
++ [Batch effects in single-cell RNA-sequencing data are corrected by matching mutual nearest neighbors](https://www.nature.com/articles/nbt.4091)    
+Nature Biotechnology    
+Published: 02 April 2018
+
 + [FIRM](https://github.com/mingjingsi/FIRM) is an algorithm for accurate integration of heterogeneous scRNA-seq datasets across multiple platforms, which specifically accounts for the heterogeneity in cell type composition between SS2 and 10X datasets.   
 + [A Joint Deep Learning Model for Simultaneous Batch Effect Correction, Denoising and Clustering in Single-Cell Transcriptomics](https://www.biorxiv.org/content/10.1101/2020.09.23.310003v1)   
 bioRxiv    
 Posted September 25, 2020.   
-In this paper, they present CarDEC, a joint deep learning model that simultaneously clusters and denoises scRNA-seq data, while correcting batch effect both in the embedding and **the gene expression space**. 
+In this paper, they present CarDEC, a joint deep learning model that simultaneously clusters and denoises scRNA-seq data, while correcting batch effect both in the embedding and **the gene expression space**.   
++ [Monet: An open-source Python package for analyzing and integrating scRNA-Seq data using PCA-based latent spaces](https://www.biorxiv.org/content/10.1101/2020.06.08.140673v2)   
+bioRxiv   
+Posted June 10, 2020.  
++ [Latent cellular analysis robustly reveals subtle diversity in large-scale single-cell RNA-seq data](https://academic.oup.com/nar/article/47/22/e143/5576119)    
+Nucleic Acids Research   
+Published: 30 September 2019    
++ [ClusterMap: compare multiple single cell RNA-Seq datasets across different experimental conditions](https://academic.oup.com/bioinformatics/article-abstract/35/17/3038/5289328)    
+Bioinformatics   
+Published: 14 January 2019    
+Using marker genes and purity tree cut, ClusterMap match multiple samples reliably at cluster level and overcomes batch effects directly.    
 
 ***
 ## 3. snRNA-seq (single-nucleus RNA-sequencing)
