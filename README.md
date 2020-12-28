@@ -52,7 +52,7 @@ bioRxiv
 Posted May 27, 2020.   
 + [A multicenter study benchmarking single-cell RNA sequencing technologies using reference samples](https://www.nature.com/articles/s41587-020-00748-9)   
 Nature Biotechnology    
-Published: 21 December 2020 
+Published: 21 December 2020   
 
 + [A test metric for assessing single-cell RNA-seq batch correction](https://www.nature.com/articles/s41592-018-0254-1)    
 Nature Methods    
@@ -64,7 +64,11 @@ Published: 16 January 2020
 bioRxiv    
 Posted May 27, 2020.  
 #### 2.3.2 Method
-+ [FIRM](https://github.com/mingjingsi/FIRM) is an algorithm for accurate integration of heterogeneous scRNA-seq datasets across multiple platforms, which specifically accounts for the heterogeneity in cell type composition between SS2 and 10X datasets.
++ [FIRM](https://github.com/mingjingsi/FIRM) is an algorithm for accurate integration of heterogeneous scRNA-seq datasets across multiple platforms, which specifically accounts for the heterogeneity in cell type composition between SS2 and 10X datasets.   
++ [A Joint Deep Learning Model for Simultaneous Batch Effect Correction, Denoising and Clustering in Single-Cell Transcriptomics](https://www.biorxiv.org/content/10.1101/2020.09.23.310003v1)   
+bioRxiv    
+Posted September 25, 2020.   
+In this paper, they present CarDEC, a joint deep learning model that simultaneously clusters and denoises scRNA-seq data, while correcting batch effect both in the embedding and **the gene expression space**. 
 
 ***
 ## 3. snRNA-seq (single-nucleus RNA-sequencing)
