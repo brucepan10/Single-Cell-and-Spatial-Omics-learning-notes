@@ -51,8 +51,8 @@ bioRxiv
 Posted May 27, 2020.   
 + [A multicenter study benchmarking single-cell RNA sequencing technologies using reference samples](https://www.nature.com/articles/s41587-020-00748-9)   
 Nature Biotechnology    
-Posted Dec 21, 2020.   
-    
+Published: 21 December 2020.   
+   
 + [A test metric for assessing single-cell RNA-seq batch correction](https://www.nature.com/articles/s41592-018-0254-1)    
 Nature Methods    
 Published: 20 December 2018  
