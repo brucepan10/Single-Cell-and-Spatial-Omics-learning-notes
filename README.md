@@ -9,7 +9,10 @@ I am on the way to learn it, so it is a good time for me to take down notes here
 Genome Biology   
 Published: 07 February 2020
 ### 0.2 Some tools
-+ [sceasy](https://github.com/cellgeni/sceasy) is a package that helps easy conversion of different single-cell data formats to each other.
++ [sceasy](https://github.com/cellgeni/sceasy) is a package that helps easy conversion of different single-cell data formats to each other.   
++ [sfaira](https://sfaira.readthedocs.io/en/latest/) is a model and a data **repository** for single-cell data in a single python package.   
+[sfaira-site](https://theislab.github.io/sfaira-site/index.html)    
+[github](https://github.com/theislab/sfaira)    
 
 ***
 ## 1. scRNA-seq method
