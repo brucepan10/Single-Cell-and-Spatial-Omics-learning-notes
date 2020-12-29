@@ -32,7 +32,7 @@ Nature Methods
 Published: 02 December 2019 
 + [Tutorial: guidelines for the computational analysis of single-cell RNA sequencing data](https://www.nature.com/articles/s41596-020-00409-w)  
 Nature Protocols   
-Published: 07 December 2020
+Published: 07 December 2020   
 
 ### 2.2 Clustering   
 + [TooManyCells identifies and visualizes relationships of single-cell clades]()    
@@ -91,10 +91,60 @@ Bioinformatics
 Published: 14 January 2019    
 Using marker genes and purity tree cut, ClusterMap match multiple samples reliably at cluster level and overcomes batch effects directly.    
 
+### 2.4 Preprocessing pipeline
++ [alevin](https://salmon.readthedocs.io/en/latest/alevin.html) extends the directional method used in [UMI-tools](https://umi-tools.readthedocs.io/en/latest/Single_cell_tutorial.html) to correct UMI errors with droplet scRNA-Seq within a framework that also enables quantification using multi-mapped reads. [alevin](https://salmon.readthedocs.io/en/latest/alevin.html) is an accurate, fast and convenient end-to-end tool to go from fastq -> count matrix.   
+   
+   
+### 2.5 RNA velocity or transcription dynamics   
++ [velocyto](http://velocyto.org/): [RNA velocity of single cells](https://www.nature.com/articles/s41586-018-0414-6)   
+Nature   
+Published: 08 August 2018    
++ [scVelo]: [Generalizing RNA velocity to transient cell states through dynamical modeling](https://www.nature.com/articles/s41587-020-0591-3)   
+Nature Biotechnology   
+Published: 03 August 2020
+
++ [CellRank for directed single-cell fate mapping](https://www.biorxiv.org/content/10.1101/2020.10.19.345983v2)    
+bioRxiv    
+Posted November 20, 2020.    
+Here, we present [CellRank](https://cellrank.readthedocs.io/en/latest/) for mapping the fate of single cells in diverse scenarios, including perturbations such as regeneration or disease, **for which direction is unknown**.   
+
++ [VeTra: a new trajectory inference tool based on RNA velocity](https://www.biorxiv.org/content/10.1101/2020.09.01.277095v1)   
+bioRxiv    
+Posted September 01, 2020.    
++ [Cytopath: Simulation based inference of differentiation trajectories from RNA velocity fields](https://www.biorxiv.org/content/10.1101/2020.12.21.423801v1)    
+bioRxiv    
+Posted December 22, 2020.   
+
++ revisit the whole process of RNA velocity analysis from the mathematical point of view    
+[On the Mathematics of RNA Velocity I: Theoretical Analysis](https://www.biorxiv.org/content/10.1101/2020.09.19.304584v1)    
+bioRxiv    
+Posted September 20, 2020.   
+
 ***
 ## 3. snRNA-seq (single-nucleus RNA-sequencing)
 ### 3.1 Compared with scRNA-seq   
 + [Systematic comparison of single-cell and single-nucleus RNA-sequencing methods](https://www.nature.com/articles/s41587-020-0465-8)    
 Nature Biotechnology    
 Published: 06 April 2020
+
+***
+## 4. spatial (ST, spatial transcriptomics)
+### 4.1 experimental method   
++ [**Slide-seq**：A scalable technology for measuring genome-wide expression at high spatial resolution](https://science.sciencemag.org/content/363/6434/1463.full)   
+Science 29 Mar 2019   
++ [Highly sensitive spatial transcriptomics at near-cellular resolution with **Slide-seqV2**](https://www.nature.com/articles/s41587-020-0739-1)   
+Nature Biotechnology    
+Published: 07 December 2020    
++ **ExSeq**: [**Expansion Sequencing**: Spatially Precise *In Situ* Transcriptomics in Intact Biological Systems](https://www.biorxiv.org/content/10.1101/2020.05.13.094268v1)   
+bioRxiv    
+Posted May 15, 2020.    
++ **seqFISH**: [Highly multiplexed spatially resolved gene expression profiling of mouse organogenesis](https://www.biorxiv.org/content/10.1101/2020.11.20.391896v1)   
+bioRxiv    
+Posted November 21, 2020.    
+In sum, by **computationally integrating high-resolution spatially-resolved gene expression maps with single-cell genomics data**, we provide a powerful new approach for studying how and when cell fate decisions are made during early mammalian development.    
++ **DBiT-seq**: [High-Spatial-Resolution Multi-Omics Sequencing via Deterministic Barcoding in Tissue](https://www.cell.com/cell/fulltext/S0092-8674(20)31390-8)   
+cell   
+December 10, 2020   
+
+### 4.2 computational method
 
