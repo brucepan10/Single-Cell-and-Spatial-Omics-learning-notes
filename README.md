@@ -99,7 +99,7 @@ Using marker genes and purity tree cut, ClusterMap match multiple samples reliab
 + [velocyto](http://velocyto.org/): [RNA velocity of single cells](https://www.nature.com/articles/s41586-018-0414-6)   
 Nature   
 Published: 08 August 2018    
-+ [scVelo]: [Generalizing RNA velocity to transient cell states through dynamical modeling](https://www.nature.com/articles/s41587-020-0591-3)   
++ **scVelo**: [Generalizing RNA velocity to transient cell states through dynamical modeling](https://www.nature.com/articles/s41587-020-0591-3)   
 Nature Biotechnology   
 Published: 03 August 2020
 
@@ -115,7 +115,7 @@ Posted September 01, 2020.
 bioRxiv    
 Posted December 22, 2020.   
 
-+ revisit the whole process of RNA velocity analysis from the mathematical point of view    
++ **revisit the whole process of RNA velocity analysis from the mathematical point of view**    
 [On the Mathematics of RNA Velocity I: Theoretical Analysis](https://www.biorxiv.org/content/10.1101/2020.09.19.304584v1)    
 bioRxiv    
 Posted September 20, 2020.   
