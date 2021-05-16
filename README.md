@@ -156,10 +156,10 @@ December 10, 2020
 ***
 ## 5. cell–cell interactions
 ### 5.1 Review
-+ [Deciphering cell–cell interactions and communication from gene expression](https://www.nature.com/articles/s41576-020-00292-x)
++ [Deciphering cell–cell interactions and communication from gene expression](https://www.nature.com/articles/s41576-020-00292-x)     
 Nature Reviews Genetics    
 Published: 09 November 2020.    
 ### 5.2 
 + [OmniPath](https://omnipathdb.org/) is a database of molecular biology prior knowledge developed in Saez Lab and Korcsmaros Lab. It combines data from more than 100 resources and contains protein-protein and gene regulatory interactions, enzyme-PTM relationships, protein complexes, protein annotations and intercellular communication.      
-[paper](https://www.embopress.org/doi/full/10.15252/msb.20209923):Integrated intra‐ and intercellular signaling knowledge for multicellular omics analysis    
+[paper](https://www.embopress.org/doi/full/10.15252/msb.20209923): Integrated intra‐ and intercellular signaling knowledge for multicellular omics analysis    
 
