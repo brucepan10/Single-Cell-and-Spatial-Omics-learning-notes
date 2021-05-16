@@ -13,6 +13,8 @@ Published: 07 February 2020
 + [sfaira](https://sfaira.readthedocs.io/en/latest/) is a model and a data **repository** for single-cell data in a single python package.   
 [sfaira-site](https://theislab.github.io/sfaira-site/index.html)    
 [github](https://github.com/theislab/sfaira)    
+### 0.3 Projects
++ [Open Problems in Single-Cell Analysis](https://openproblems.bio/), whose goal is to formalize challenges such as these and create a living community-driven state-of-the-art benchmarking platform to facilitate development of single-cell methods.    
 
 ***
 ## 1. scRNA-seq method
