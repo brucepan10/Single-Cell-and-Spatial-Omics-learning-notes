@@ -124,6 +124,10 @@ Posted December 22, 2020.
 [On the Mathematics of RNA Velocity I: Theoretical Analysis](https://www.biorxiv.org/content/10.1101/2020.09.19.304584v1)    
 bioRxiv    
 Posted September 20, 2020.   
+   
+### 2.6 Supervised method for cell-type classification/annotation    
++ [scHPL](https://github.com/lcmmichielsen/scHPL), a hierarchical progressive learning method which allows continuous learning from single-cell data by leveraging the different resolutions of annotations across multiple datasets to learn and continuously update a classification tree. Paper in [here](https://www.nature.com/articles/s41467-021-23196-8).   
+
 
 ***
 ## 3. snRNA-seq (single-nucleus RNA-sequencing)
