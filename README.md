@@ -126,7 +126,11 @@ bioRxiv
 Posted September 20, 2020.   
    
 ### 2.6 Supervised method for cell-type classification/annotation    
-+ [scHPL](https://github.com/lcmmichielsen/scHPL), a hierarchical progressive learning method which allows continuous learning from single-cell data by leveraging the different resolutions of annotations across multiple datasets to learn and continuously update a classification tree. Paper in [here](https://www.nature.com/articles/s41467-021-23196-8).   
++ [scHPL](https://github.com/lcmmichielsen/scHPL), a hierarchical progressive learning method which allows continuous learning from single-cell data by leveraging the different resolutions of annotations across multiple datasets to learn and continuously update a classification tree. Paper is [here](https://www.nature.com/articles/s41467-021-23196-8).   
++ [ProjecTILs](https://github.com/carmonalab/ProjecTILs): Interpretation of T cell states using reference single-cell atlases.   
++ [ELeFHAnt](https://github.com/praneet1988/ELeFHAnt): Ensemble Learning for Harmonization and Annotation of Single Cells (ELeFHAnt) provides an easy to use R package for users to annotate clusters of single cells, harmonize labels across single cell datasets to generate a unified atlas and infer relationship among celltypes between two datasets.   
++ [cellassign](https://github.com/Irrationone/cellassign) automatically assigns single-cell RNA-seq data to known cell types across thousands of cells accounting for patient and batch specific effects. Information about a priori known markers cell types is provided as input to the model in the form of a (binary) marker gene by cell-type matrix. cellassign then probabilistically assigns each cell to a cell type, removing subjective biases from typical unsupervised clustering workflows.
++ [scArches](https://scarches.readthedocs.io/en/latest/index.html): a deep learning strategy for mapping query datasets on top of a reference called single-cell architectural surgery (scArches). scArches uses transfer learning and parameter optimization to enable efficient, decentralized, iterative reference building and contextualization of new datasets with existing references without sharing raw data. Paper is [here](https://www.nature.com/articles/s41587-021-01001-7).    
 
 
 ***
