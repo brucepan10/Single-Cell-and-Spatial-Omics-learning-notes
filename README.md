@@ -169,5 +169,17 @@ Nature Reviews Genetics
 Published: 09 November 2020.    
 ### 5.2 
 + [OmniPath](https://omnipathdb.org/) is a database of molecular biology prior knowledge developed in Saez Lab and Korcsmaros Lab. It combines data from more than 100 resources and contains protein-protein and gene regulatory interactions, enzyme-PTM relationships, protein complexes, protein annotations and intercellular communication.      
-[paper](https://www.embopress.org/doi/full/10.15252/msb.20209923): Integrated intra‐ and intercellular signaling knowledge for multicellular omics analysis    
+[paper](https://www.embopress.org/doi/full/10.15252/msb.20209923): Integrated intra‐ and intercellular signaling knowledge for multicellular omics analysis   
+
+***
+## 6. single-cell immune profiling
++ [scRepertoire](https://github.com/ncborcherding/scRepertoire): A toolkit for single-cell immune profiling. Enabling users to easily combine RNA and immune profiling, scRepertoire was built to process data derived from the 10x Genomics Chromium Immune Profiling for both T-cell receptor (TCR) and immunoglobulin (Ig) enrichment workflows and subsequently interacts with the popular Seurat R package.    
+
+***
+## 7. Dimension reduction
+### 7.1 Methods   
++ t-SNE: [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)   
++ UMAP: [Understanding UMAP](https://pair-code.github.io/understanding-umap/)    
++ **den-SNE and densMAP**, which are density-preserving visualization tools based on t-SNE and UMAP, respectively, and demonstrate their ability to accurately incorporate information about transcriptomic variability into the visual interpretation of single-cell RNA sequencing data. Paper is [here](https://www.nature.com/articles/s41587-020-00801-7).
+
 
