@@ -1,6 +1,6 @@
-# Single-Cell learning notes
-Single-cell is an increasingly popular area, which greatly revolutionizes life studies.   
-I am on the way to learn it, so it is a good time for me to take down notes here.
+# Single-Cell and Spatial Omics learning notes
+Single-cell and spatial omics are two increasingly popular areas, which greatly revolutionize life studies.   
+I am on the way to learn them, so it is a good time for me to take down notes here.
 
 *** 
 ## 0. Single-Cell   
@@ -8,13 +8,21 @@ I am on the way to learn it, so it is a good time for me to take down notes here
 + [Eleven grand challenges in single-cell data science](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1926-6)    
 Genome Biology   
 Published: 07 February 2020
-### 0.2 Some tools
+### 0.2 Tools
 + [sceasy](https://github.com/cellgeni/sceasy) is a package that helps easy conversion of different single-cell data formats to each other.   
 + [sfaira](https://sfaira.readthedocs.io/en/latest/) is a model and a data **repository** for single-cell data in a single python package.   
 [sfaira-site](https://theislab.github.io/sfaira-site/index.html)    
 [github](https://github.com/theislab/sfaira)    
 ### 0.3 Projects
-+ [Open Problems in Single-Cell Analysis](https://openproblems.bio/), whose goal is to formalize challenges such as these and create a living community-driven state-of-the-art benchmarking platform to facilitate development of single-cell methods.    
++ [Open Problems in Single-Cell Analysis](https://openproblems.bio/), whose goal is to formalize challenges such as these and create a living community-driven state-of-the-art benchmarking platform to facilitate development of single-cell methods.  
+### 0.4 Tutorials
++ [ANALYSIS OF SINGLE CELL RNA-SEQ DATA](https://broadinstitute.github.io/2019_scWorkshop/)    
++ [Analysis of single cell RNA-seq data](https://www.singlecellcourse.org/)   
++ [Basics of Single-Cell Analysis with Bioconductor](http://bioconductor.org/books/3.14/OSCA.basic/)    
++ [Advanced Single-Cell Analysis with Bioconductor](http://bioconductor.org/books/3.14/OSCA.advanced/)    
+### 0.5 Worth reading    
++ [Ming Tang: scRNAseq-analysis-notes](https://github.com/crazyhottommy/scRNAseq-analysis-notes)
++ [Sean Davis: List of software packages (and the people developing these methods) for single-cell data analysis](https://github.com/seandavi/awesome-single-cell)
 
 ***
 ## 1. scRNA-seq method
