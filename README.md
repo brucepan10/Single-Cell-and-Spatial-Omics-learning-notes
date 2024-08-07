@@ -22,7 +22,7 @@ Published: 07 February 2020
 + [Advanced Single-Cell Analysis with Bioconductor](http://bioconductor.org/books/3.14/OSCA.advanced/)    
 ### 0.5 Worth reading    
 + [Ming Tang: scRNAseq-analysis-notes](https://github.com/crazyhottommy/scRNAseq-analysis-notes)
-+ [Sean Davis: List of software packages (and the people developing these methods) for single-cell data analysis](https://github.com/seandavi/awesome-single-cell)
++ [Sean Davis: awesome-single-cell >> List of software packages (and the people developing these methods) for single-cell data analysis](https://github.com/seandavi/awesome-single-cell)
 
 ***
 ## 1. scRNA-seq method
