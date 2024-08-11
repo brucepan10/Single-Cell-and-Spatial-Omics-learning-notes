@@ -141,6 +141,10 @@ Posted September 20, 2020.
 + [scArches](https://scarches.readthedocs.io/en/latest/index.html): a deep learning strategy for mapping query datasets on top of a reference called single-cell architectural surgery (scArches). scArches uses transfer learning and parameter optimization to enable efficient, decentralized, iterative reference building and contextualization of new datasets with existing references without sharing raw data. Paper is [here](https://www.nature.com/articles/s41587-021-01001-7).    
 
 
+### 2.7 Ambient RNA Correction    
++ [CellClear: Enhancing Single-cell RNA Data Quality via Biologically-Informed Ambient RNA Correction](https://www.biorxiv.org/content/10.1101/2024.08.05.606571v1)
+
+
 ***
 ## 3. snRNA-seq (single-nucleus RNA-sequencing)
 ### 3.1 Compared with scRNA-seq   
