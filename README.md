@@ -172,6 +172,11 @@ cell
 December 10, 2020   
 
 ### 4.2 computational method
++ [Whole brain alignment of spatial transcriptomics between humans and mice with BrainAlign](https://www.nature.com/articles/s41467-024-50608-2)    
+Nature Communications    
+Published: 30 July 2024
+BrainAlign could integrate cross-species spots into the embedding space and reveal the conserved brain regions supported by ST information, which facilitates the detection of homologous regions between humans and mice.
+
 
 ***
 ## 5. cell–cell interactions
