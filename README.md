@@ -184,7 +184,7 @@ BrainAlign could integrate cross-species spots into the embedding space and reve
 + [Deciphering cell–cell interactions and communication from gene expression](https://www.nature.com/articles/s41576-020-00292-x)     
 Nature Reviews Genetics    
 Published: 09 November 2020.    
-### 5.2 
+### 5.2 Database
 + [OmniPath](https://omnipathdb.org/) is a database of molecular biology prior knowledge developed in Saez Lab and Korcsmaros Lab. It combines data from more than 100 resources and contains protein-protein and gene regulatory interactions, enzyme-PTM relationships, protein complexes, protein annotations and intercellular communication.      
 [paper](https://www.embopress.org/doi/full/10.15252/msb.20209923): Integrated intra‐ and intercellular signaling knowledge for multicellular omics analysis   
 
@@ -198,5 +198,11 @@ Published: 09 November 2020.
 + t-SNE: [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)   
 + UMAP: [Understanding UMAP](https://pair-code.github.io/understanding-umap/)    
 + **den-SNE and densMAP**, which are density-preserving visualization tools based on t-SNE and UMAP, respectively, and demonstrate their ability to accurately incorporate information about transcriptomic variability into the visual interpretation of single-cell RNA sequencing data. Paper is [here](https://www.nature.com/articles/s41587-020-00801-7).
+
+***
+## 8. Cross-species comparative analyses
+### 8.1 Cross-species cell-type assignment   
++ CAME: [Cross-species cell-type assignment from single-cell RNA-seq data by a heterogeneous graph neural network](https://genome.cshlp.org/content/33/1/96.long)
+Here, we design a heterogeneous graph neural network model, CAME, to learn aligned and interpretable cell and gene embeddings for cross-species cell-type assignment and gene module extraction from scRNA-seq data. In short, CAME can make accurate cross-species cell-type assignments even for nonmodel species and uncover shared and divergent characteristics between two species from scRNA-seq data.    
 
 
