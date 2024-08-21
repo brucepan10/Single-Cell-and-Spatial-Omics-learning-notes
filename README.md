@@ -202,7 +202,7 @@ Published: 09 November 2020.
 ***
 ## 8. Cross-species comparative analyses
 ### 8.1 Cross-species cell-type assignment   
-+ CAME: [Cross-species cell-type assignment from single-cell RNA-seq data by a heterogeneous graph neural network](https://genome.cshlp.org/content/33/1/96.long)
++ CAME: [Cross-species cell-type assignment from single-cell RNA-seq data by a heterogeneous graph neural network](https://genome.cshlp.org/content/33/1/96.long)        
 Here, we design a heterogeneous graph neural network model, CAME, to learn aligned and interpretable cell and gene embeddings for cross-species cell-type assignment and gene module extraction from scRNA-seq data. In short, CAME can make accurate cross-species cell-type assignments even for nonmodel species and uncover shared and divergent characteristics between two species from scRNA-seq data.    
 
 
